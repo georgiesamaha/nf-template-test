@@ -1,0 +1,11 @@
+{
+    "name": "georgiesamaha/nf-template-test",
+    "homePage": "https://github.com/georgiesamaha/nf-template-test",
+    "repos": {
+        "https://github.com/nf-core/modules.git": {
+            "modules": {
+                "nf-core": {}
+            }
+        }
+    }
+}
